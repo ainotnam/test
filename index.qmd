@@ -1,5 +1,5 @@
 ---
-title: "[CANCUN]{style="color:green;"}: Time-Sensitive Vehicular Control and Collaborative Perception via AI-augmented Sustainable Networks"
+title: "[CANCUN]{color=green}: Time-Sensitive Vehicular Control and Collaborative Perception via AI-augmented Sustainable Networks"
 format:
   html:
     code-fold: true
