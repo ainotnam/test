@@ -39,7 +39,7 @@ CITI particicpants: Pang Ai-Chun (PI)
 ![](./assets/LogoZS.png){width=30% fig-align="center"}
 
 <span style='color: red;'>ZettaScale Technology Taiwan</span> is a ZettaScale team located in Taiwan and it is in charge of performance evaluation of communication protocols.
-ZScale Taiwan participants: Yuan Yu-Yuan (PI), Kuo, Chenying
+ZScale Taiwan participants: Yuan Yu-Yuan (PI), Kuo Chenying
 
 
 About this site
