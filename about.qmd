@@ -23,7 +23,7 @@ TSP participants: Chahed Tijani (PI), Ben-Ameur Walid
 ![](./assets/LogoZS.png){width=30% fig-align="center"}
 
 <span style='color: red;'>ZettaScale Technology</span> is a tech company (founded in 2022, based in Paris) focused on building advanced distributed computing solutions and communication platforms that span from small embedded devices up to large cloud infrastructures. Its mission is to bring every connected human and machine the unconstrained freedom to communicate, compute and store — anywhere, at any scale, efficiently and securely. 
-ZScale participants: Angelo Corsaro (PI), Paez Ivan, Karoui Ramzi
+ZScale participants: Corsaro Angelo (PI), Paez Ivan, Karoui Ramzi
 
 ![](./assets/LogoNTU.png){width=50% fig-align="center"}
 
